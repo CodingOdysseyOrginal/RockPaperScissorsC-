@@ -1,0 +1,14 @@
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\bin\Debug\net9.0\AppTest.exe
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\bin\Debug\net9.0\AppTest.deps.json
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\bin\Debug\net9.0\AppTest.runtimeconfig.json
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\bin\Debug\net9.0\AppTest.dll
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\bin\Debug\net9.0\AppTest.pdb
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\obj\Debug\net9.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\obj\Debug\net9.0\AppTest.AssemblyInfoInputs.cache
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\obj\Debug\net9.0\AppTest.AssemblyInfo.cs
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\obj\Debug\net9.0\AppTest.csproj.CoreCompileInputs.cache
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\obj\Debug\net9.0\AppTest.dll
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\obj\Debug\net9.0\refint\AppTest.dll
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\obj\Debug\net9.0\AppTest.pdb
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\obj\Debug\net9.0\AppTest.genruntimeconfig.cache
+c:\Users\Christopher\OneDrive\Code\C#PROJECT\AppTest\obj\Debug\net9.0\ref\AppTest.dll
